@@ -2,7 +2,7 @@
 ## Project Information
 - Development Period: October 2025 - November 2025 
 - Course: Introduction to Metaheuristics  
-- Type: Group project done at the University of AIzu
+- Type: Group project done at the University of Aizu
 ## Project Overview
 
 This project explores the application of **single-point metaheuristic search algorithms** to solve **NP-hard combinatorial optimization problems.** The study focuses on analyzing the effectiveness of several metaheuristic algorithms in solving classical optimization problems and evaluating their performance in terms of **solution quality, convergence behavior, and computational efficiency.**
